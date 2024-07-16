@@ -320,12 +320,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   computeShader: {fileID: 7200000, guid: 99bcf2d02d5442c4d8e675b72b3f85fe, type: 3}
-  resolution: 200
+  resolution: 1000
   function: 0
-  transitionMode: 0
+  transitionMode: 1
   functionDuration: 1
-  transitionDuration: 0
-  material: {fileID: 2100000, guid: aa73e037d1720f942ae09b31583d183e, type: 2}
+  transitionDuration: 1
+  material: {fileID: 2100000, guid: a5caea16b4d10c84889ff61a435b9355, type: 2}
   mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &1396830011
 Transform:
