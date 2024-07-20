@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Fractal URP
-  m_Shader: {fileID: -6465566751694194690, guid: 454d763d2fe3584489fdaea5166fb4d3, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 1d4696a3c60559a45886dfbd7eb01689, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
